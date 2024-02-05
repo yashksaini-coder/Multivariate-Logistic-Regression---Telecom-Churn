@@ -159,7 +159,7 @@ The objective is to develop a robust Multivariate logistic regression model that
 
 3. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telecom-churn-prediction.git
+   git clone https://github.com/yashksaini-coder/Multivariate-Logistic-Regression---Telecom-Churn
    ```
 
 ### Navigate to the Project:
@@ -194,7 +194,7 @@ pip install -r requirements.txt
 ### Run the Jupyter Notebook:
 
 ```bash
-jupyter notebook
+jupyter-notebook
 ```
 
 This will open a new tab in your web browser showing the Jupyter Notebook interface. Navigate to the cloned project directory and open the notebook titled `Logistic-Regression.ipynb`.
